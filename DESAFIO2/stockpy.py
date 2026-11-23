@@ -1,7 +1,7 @@
 """
 StockPy - Sistema de Gerenciamento de Estoque e Vendas
 Desafio 2 - Lógica de Programação - Tema 3 (Etapas 1 e 2)
-
+"""
 
 # ==========================================================
 # VARIÁVEIS GLOBAIS (dados do sistema)

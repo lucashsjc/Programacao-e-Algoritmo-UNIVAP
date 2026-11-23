@@ -1,6 +1,9 @@
 """
 StockPy - Sistema de Gerenciamento de Estoque e Vendas
-Desafio 2 - Lógica de Programação - Tema 3 (Etapas 1 e 2)
+Desafio 2 - Tema 3 (Etapas 1 e 2)
+Disciplina: Algoritmos e Programação
+Professor: Andre Olimpio
+Aluno: Lucas Henrique da Silva
 """
 
 # ==========================================================

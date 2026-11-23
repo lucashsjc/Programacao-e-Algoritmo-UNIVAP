@@ -3,7 +3,7 @@ algoritmo "LogiFast"
 // Professor   : Andre Olimpio
 // ============================================================
 // LogiFast - Sistema Inteligente de Gerenciamento de Entregas
-// Desafio 1 - Algoritmo e Programacao (UNIVAP)
+// Desafio 1 - Algoritmos e Programacao (UNIVAP)
 //
 // FLUXO: Problema -> Analise -> Estruturas de dados -> Algoritmo
 //        -> Modularizacao -> Validacao -> Testes -> Resultado

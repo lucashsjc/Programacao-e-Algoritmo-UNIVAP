@@ -1,4 +1,4 @@
-# Programação e Algoritmo – UNIVAP
+# Algoritmos e Programação – UNIVAP
 
 Repositório com os desafios da disciplina de **Algoritmos e Programação** da FEAU – UNIVAP.
 

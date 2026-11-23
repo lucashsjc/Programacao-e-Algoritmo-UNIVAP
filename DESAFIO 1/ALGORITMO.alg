@@ -1,3 +1,27 @@
+algoritmo "LogiFast"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
+// ============================================================
+// LogiFast - Sistema Inteligente de Gerenciamento de Entregas
+// Desafio 1 - Algoritmo e Programacao (UNIVAP)
+//
+// FLUXO: Problema -> Analise -> Estruturas de dados -> Algoritmo
+//        -> Modularizacao -> Validacao -> Testes -> Resultado
+//
+// ESCOPO:
+//  - GLOBAIS: entregas, qtdEntregas, matriz, percurso, qtdPercurso,
+//    contRegiao. Sao dados compartilhados por varias sub-rotinas e o
+//    VisuAlg nao permite passar vetores/matrizes como parametro.
+//  - LOCAIS: contadores, acumuladores, indices e leituras temporarias
+//    (i, j, soma, cod...). Existem so dentro da sub-rotina que os usa.
+//  - PARAMETROS: valores simples (codigo, posicao, distancia, peso...)
+//    sao passados por valor, pois a sub-rotina apenas os consulta.
+//
+// OBS: os tamanhos dos vetores/matriz nas declaracoes sao literais
+// (30, 5, 10) porque o VisuAlg nao aceita constantes ali. Devem
+// coincidir com MAX_ENTREGAS, MAX_REGIOES e MAX_PERCURSO.
+// ============================================================
+
 const
    // capacidades do sistema
    MAX_ENTREGAS = 30
@@ -721,4 +745,3 @@ inicio
       fimescolha
    ate opcao = OPCAO_SAIR
 fimalgoritmo
-

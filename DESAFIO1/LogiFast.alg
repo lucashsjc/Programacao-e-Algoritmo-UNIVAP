@@ -1,6 +1,6 @@
 algoritmo "LogiFast"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+// Disciplina   : [Algoritmo e Programação] 
+// Professor   : Andre Olimpio
 // ============================================================
 // LogiFast - Sistema Inteligente de Gerenciamento de Entregas
 // Desafio 1 - Algoritmo e Programacao (UNIVAP)

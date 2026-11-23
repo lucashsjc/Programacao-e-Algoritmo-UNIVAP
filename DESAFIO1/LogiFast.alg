@@ -1,5 +1,5 @@
 algoritmo "LogiFast"
-// Disciplina   : [Algoritmo e Programação] 
+// Disciplina   : [Algoritmos e Programação] 
 // Professor   : Andre Olimpio
 // ============================================================
 // LogiFast - Sistema Inteligente de Gerenciamento de Entregas
